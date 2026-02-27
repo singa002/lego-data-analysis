@@ -1,0 +1,3 @@
+SELECT *
+FROM sets
+LIMIT 10;
